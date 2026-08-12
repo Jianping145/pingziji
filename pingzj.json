@@ -1,0 +1,46 @@
+{
+  "spider": "https://raw.githubusercontent.com/Jianping145/pingziji/main/fm.jar;md5;73dae07d158060f7ee6a5eb4523220a5",
+  "sites": [
+    {
+      "key": "py_4k69",
+      "name": "4K69",
+      "type": 3,
+      "api": "py_spider_4k69_v21",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    }
+  ],
+  "parses": [
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    }
+  ],
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0ZvbmdNaS9DYXRWb2QvbWFpbi9saXZlLnR4dA=="
+          ]
+        }
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "host": "*",
+      "rule": [
+        "m3u8",
+        "mp4",
+        "flv"
+      ]
+    }
+  ],
+  "wallpaper": "https://picsum.photos/1280/720/?blur=2"
+}
