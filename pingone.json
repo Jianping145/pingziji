@@ -12,40 +12,63 @@
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/yeshe.py"
 		},
-        "webViewSettings": {
-          "blockNetworkImage": true,
-          "blockList": [
-            "*.ico*",
-            "*.png*",
-            "*.css*",
-            "https://*.adsco.re/*",
-            "https://*.googleapis.com/*",
-            "https://*.googlesyndication.com/*",
-            "https://*.googletagmanager.com/*",
-            "https://*.hpyjmp.com/*",
-            "https://*.magsrv.com/*",
-            "https://*.mnaspm.com/*",
-            "https://*.shukriya90.com/*",
-            "https://*.tapioni.com/*",
-            "https://*.tsyndicate.com/*",
-            "https://assets.jable.tv/assets/js/player.js"
-          ]
+    {
+        "key": "jable",
+        "name": "Jable",
+        "type": 3,
+        "quickSearch": 1,
+        "searchable": 1,
+        "changeable": 0,
+        "filterable": 1,
+        "timeout": 60,
+        "style": {
+          "type": "rect",
+          "ratio": 1.48
         },
-        "spider": {
-          "homeContent": {
-            "loadUrl": "https://jable.tv/"
+        "api": "csp_GM",
+        "jar": "./jar/GM.jar;md5;a36831ed798998bbf38bb5862c32f96d",
+        "ext": {
+          "userScript": "./File/js/Abalone/jable.user.js",
+          "debug": false,
+          "webViewSettings": {
+            "blockNetworkImage": true,
+            "blockList": [
+              "*.ico*",
+              "*.png*",
+              "*.css*",
+              "https://*.adsco.re/*",
+              "https://*.googleapis.com/*",
+              "https://*.googlesyndication.com/*",
+              "https://*.googletagmanager.com/*",
+              "https://*.hpyjmp.com/*",
+              "https://*.magsrv.com/*",
+              "https://*.mnaspm.com/*",
+              "https://*.shukriya90.com/*",
+              "https://*.tapioni.com/*",
+              "https://*.tsyndicate.com/*",
+              "https://assets.jable.tv/assets/js/player.js"
+            ]
           },
-          "categoryContent": {
-            "loadUrl": "https://jable.tv/${tid:-latest-updates}/?from=${pg:-1}${sort_by:-}"
-          },
-          "detailContent": {
-            "loadUrl": "https://jable.tv/videos/${id}/"
-          },
-          "searchContent": {
-            "loadUrl": "https://jable.tv/search/${key}/?from=${pg:-1}"
+          "playUrlMatch": [
+            "https://*/*/master.m3u8*",
+            "https://*/*/v.mp4",
+            "https://*/*/playlist.m3u8*"
+          ],
+          "spider": {
+            "homeContent": {
+              "loadUrl": "https://jable.tv/"
+            },
+            "categoryContent": {
+              "loadUrl": "https://jable.tv/${tid:-latest-updates}/?from=${pg:-1}${sort_by:-}"
+            },
+            "detailContent": {
+              "loadUrl": "https://jable.tv/videos/${id}/"
+            },
+            "searchContent": {
+              "loadUrl": "https://jable.tv/search/${key}/?from=${pg:-1}"
+            }
           }
         }
-      }
     },
     {
       "key": "netflav",
