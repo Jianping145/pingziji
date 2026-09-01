@@ -30,6 +30,17 @@
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/hdporn92.py"
 		},
+	    {
+            "key": "4kporno",
+            "name": "🐬4kporno.py｜🔞[成人]",
+            "type": 3,
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/4kporno.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 1,
+            "jar": "https://raw.githubusercontent.com/qist/tvbox/master/jar/spider.jar"
+         },
     {
       "key": "奥斯卡",
       "name": "ദ്ദി奥斯卡",
