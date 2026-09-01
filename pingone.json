@@ -6,17 +6,12 @@
   "logo": "./logo/hunter.gif",
   "wallpaper": "./imgs/y3.webp",
   "sites": [
-    {
+       {
 			"key": "yeshe",
 			"name": "yeshe.py｜🔞[成人]",
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/yeshe.py"
 		},
-      "api": "csp_GM",
-      "jar": "./jar/GM.jar;md5;a36831ed798998bbf38bb5862c32f96d",
-      "ext": {
-        "userScript": "./File/js/Abalone/jable.user.js",
-        "debug": false,
         "webViewSettings": {
           "blockNetworkImage": true,
           "blockList": [
