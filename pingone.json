@@ -2,7 +2,7 @@
   "name": "Abalone",
   "notice": "",
   "author": "https://t.me/Aure_cod",
-  "spider": "./jar/内置Lzgo.jar",
+  "spider": "https://cnb.cool/fish2035/xs/-/git/raw/main/spider.jar",
   "logo": "./logo/hunter.gif",
   "wallpaper": "./imgs/y3.webp",
   "sites": [
