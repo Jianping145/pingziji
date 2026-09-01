@@ -7,6 +7,12 @@
   "wallpaper": "./imgs/y3.webp",
   "sites": [
     {
+			"key": "yeshe",
+			"name": "yeshe.py｜🔞[成人]",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/yeshe.py"
+		},
+    {
       "key": "local_A-V",
       "name": "A-Vʰᵗᵐˡ",
       "type": 3,
