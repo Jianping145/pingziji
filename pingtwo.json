@@ -19,10 +19,10 @@
             "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/SpankBang.js"
         },
         {
-            "name": "麻豆社",
+            "name": "麻豆",
             "type": 3,
-            "api": "csp_madou",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/madou.js"
+            "api": "csp_麻豆",
+            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/麻豆.js"
         },
         {
             "name": "玩偶姐姐",
