@@ -246,8 +246,8 @@
     {
       "key": "AIvin",
       "name": "AIvin",
-      "type": 1,
-      "api": "http://lbapiby.com/api.php/provide/vod/"
+      "type": 0,
+      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "老色逼",
