@@ -244,12 +244,13 @@
       "api": "https://lbapi9.com/api.php/provide/vod/"
     },
     {
-      "key": "香蕉资源",
-      "name": "香蕉资源",
-      "type": 0,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
+      "key": "鸡坤",
+      "name": "鸡坤",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "quickSearch": 1,
       "searchable": 1,
-      "quickSearch": 0
+      "filterable": 0
     },
     {
       "key": "老色逼",
