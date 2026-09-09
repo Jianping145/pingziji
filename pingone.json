@@ -244,10 +244,12 @@
       "api": "https://lbapi9.com/api.php/provide/vod/"
     },
     {
-      "key": "AIvin",
-      "name": "AIvin",
+      "key": "香蕉资源",
+      "name": "香蕉资源",
       "type": 0,
-      "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 0
     },
     {
       "key": "老色逼",
