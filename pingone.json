@@ -185,6 +185,7 @@
       "searchable": 1,
       "changeable": 1
     },
+	{"key": "155資源", "name": "155資源", "type": 1, "api": "https://155api.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0}, 
 	{
       "key": "lsb资源",
       "name": "lsb资源",
