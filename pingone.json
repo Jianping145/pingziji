@@ -185,7 +185,7 @@
       "searchable": 1,
       "changeable": 1
     },
-	{"key": "155資源", "name": "155資源", "type": 1, "api": "https://155api.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0}, 
+	{"key": "红桃", "name": "红桃视频", "type": 1, "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
 	{
       "key": "lsb资源",
       "name": "lsb资源",
