@@ -184,7 +184,16 @@
       "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1
-    },  
+    },
+	{
+      "key": "lsb资源",
+      "name": "lsb资源",
+      "type": 1,
+      "api": "https://apilsbzy1.com/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 0
+    }, 
     {
       "key": "大地",
       "name": "大地",
