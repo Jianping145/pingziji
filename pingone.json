@@ -170,13 +170,14 @@
       "changeable": 1,
       "playerType": 2
     },
-    {
-      "key": "本地",
-      "name": "❅本地视频",
-      "jar": "./jar/GM.jar",
-      "type": 3,
-      "api": "csp_Local"
-    },
+	{
+      "key": "91",
+      "name": "传媒系列",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1
+    }  
     {
       "key": "大地",
       "name": "大地",
