@@ -186,6 +186,7 @@
       "changeable": 1
     },
 	{"key": "红桃", "name": "红桃视频", "type": 1, "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
+	{"key": "精品吧", "name": "精品吧", "type": 1, "api": "https://jp98.vip/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1}, 
 	{
       "key": "lsb资源",
       "name": "lsb资源",
