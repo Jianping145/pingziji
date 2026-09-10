@@ -197,6 +197,7 @@
       "searchable": 1,
       "changeable": 1
     },
+	{"key": "8天资源", "name": "8天资源", "type": 1, "api": "https://8day.icu/api.php/provide/vod/at/json", "searchable": 1, "quickSearch": 1, "filterable": 0}, 
 	{"key": "红桃", "name": "红桃视频", "type": 1, "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
 	{"key": "精品吧", "name": "精品吧", "type": 1, "api": "https://jp98.vip/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
 	{"key": "CK资源", "name": "CK资源", "type": 1, "api": "https://ckzy.me/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0}, 
