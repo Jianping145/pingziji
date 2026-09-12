@@ -1,10 +1,13 @@
 {
     "sites": [
         {
-            "name": "MISSAV", 
-            "type": 3, 
-            "api": "csp_miss",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/missav.js"
+            "key": "missav",
+            "name": "MissAV",
+            "type": 0,
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/missav.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "name": "EXPORNTOONS", 
