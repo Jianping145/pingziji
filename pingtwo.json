@@ -64,10 +64,13 @@
             "filterable": 1
         },
         {
+            "key": "harunasan",
             "name": "秋名山見(live)",
             "type": 3,
-            "api": "csp_harunasan",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/harunasan.js"
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/harunasan.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "SupJav",
@@ -88,16 +91,22 @@
             "filterable": 1
         },
         {
+            "key": "hohoj",
             "name": "hohoj",
             "type": 3,
-            "api": "csp_hohoj",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/hohoj.js"
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/hohoj.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
+            "key": "KoreaPornMovie",
             "name": "KoreaPornMovie",
             "type": 3,
-            "api": "csp_KPM",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/KoreaPornMovie.js"
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/KoreaPornMovie.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "name": "pppHub",
