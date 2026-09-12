@@ -3,7 +3,7 @@
         {
             "key": "missav",
             "name": "MissAV",
-            "type": 0,
+            "type": 3,
             "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/missav.js",
             "searchable": 1,
             "quickSearch": 1,
