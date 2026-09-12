@@ -15,19 +15,26 @@
             "type": 3,
             "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/javsb.js",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "name": "EXPORNTOONS", 
-            "type": 3, 
-            "api": "csp_EXPORNTOONS",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/EXPORNTOONS.js"
+            "key": "EXPORNTOONS",
+            "name": "EXPORNTOONS",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/EXPORNTOONS.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "name": "SpankBang", 
             "type": 3, 
             "api": "csp_SpankBang",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/SpankBang.js"
+            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/SpankBang.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "麻豆",
@@ -42,13 +49,16 @@
             "name": "玩偶姐姐",
             "type": 3,
             "api": "csp_hkdoll",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/hkdoll.js"
+            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/hkdoll.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "name": "Hanime1",
             "type": 3,
             "api": "csp_Hanime1",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/hanime.js"
+            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/hanime.js",
         },
         {
             "name": "秋名山見(live)",
