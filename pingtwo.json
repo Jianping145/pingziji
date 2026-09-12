@@ -28,10 +28,10 @@
             "filterable": 1
         },
         {
-            "name": "SpankBang", 
-            "type": 3, 
-            "api": "csp_SpankBang",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/SpankBang.js",
+            "key": "SpankBang",
+            "name": "SpankBang",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/SpankBang.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -46,10 +46,10 @@
             "filterable": 1
         },
         {
+            "key": "hkdoll",
             "name": "玩偶姐姐",
             "type": 3,
-            "api": "csp_hkdoll",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/hkdoll.js",
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/hkdoll.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
