@@ -30,10 +30,13 @@
             "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/SpankBang.js"
         },
         {
+            "key": "麻豆",
             "name": "麻豆",
             "type": 3,
-            "api": "csp_麻豆",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/麻豆.js"
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/麻豆.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "name": "玩偶姐姐",
@@ -54,16 +57,22 @@
             "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/harunasan.js"
         },
         {
+            "key": "SupJav",
             "name": "SupJav",
             "type": 3,
-            "api": "csp_SupJav",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/SupJav.js"
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/SupJav.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
-            "name": "91jav (無海報)",
+            "key": "91jav",
+            "name": "91jav",
             "type": 3,
-            "api": "csp_91jav",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/91jav.js"
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/91jav.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "name": "hohoj",
@@ -96,10 +105,13 @@
             "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/xhamster.js"
         },
         {
-            "name": "Pornhub",
+            "key": "PornHub",
+            "name": "PornHub",
             "type": 3,
-            "api": "csp_pornhub",
-            "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/pornhub.js"
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/PornHub.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "name": "jable",
