@@ -202,7 +202,8 @@
 	{"key": "桃花资源", "name": "桃花资源", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0}, 
 	{"key": "红桃视频", "name": "红桃视频", "type": 1, "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
 	{"key": "精品98", "name": "精品98", "type": 1, "api": "https://jp98.vip/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
-	{"key": "CK资源", "name": "CK资源", "type": 1, "api": "https://ckzy.me/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0}, 
+	{"key": "CK资源", "name": "CK资源", "type": 1, "api": "https://ckzy.me/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0},
+	{"key": "鲨鱼资源", "name": "鲨鱼资源", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1}, 
 	{
       "key": "lsb资源",
       "name": "lsb资源",
@@ -217,36 +218,6 @@
       "name": "大地",
       "type": 0,
       "api": "https://dadiapi.com/api.php"
-    },
-    {
-      "key": "黄AV",
-      "name": "黄AV",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php"
-    },
-    {
-      "key": "白嫖",
-      "name": "白嫖",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php"
-    },
-    {
-      "key": "美少女",
-      "name": "美少女",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php"
-    },
-    {
-      "key": "香奶儿",
-      "name": "香奶儿",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php"
-    },
-    {
-      "key": "淫水机",
-      "name": "淫水机",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php"
     },
     {
       "key": "番号",
