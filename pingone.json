@@ -212,7 +212,16 @@
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 0
-    }, 
+    },
+	{
+      "key": "黄色仓库",
+      "name": "黄色仓库",
+      "type": 1,
+      "api": "https://hsckzy.vip/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 0
+    },  
     {
       "key": "大地",
       "name": "大地",
