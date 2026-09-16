@@ -83,13 +83,47 @@
         },
         {
             "key": "netflav",
-            "name": "netflav",
+            "name": "NETFLAV",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/netflav.js",
-            "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-        },
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "style": {
+              "type": "rect",
+              "ratio": 1.48
+            },
+            "api": "csp_GM",
+            "jar": "https://raw.githubusercontent.com/Jianping145/jar/refs/heads/main/GM.jar",
+            "ext": {
+              "userScript": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/netflav.user.js",
+              "debug": false,
+              "webViewSettings": {
+                "blockNetworkImage": true,
+                "blockList": [
+                  "*.png",
+                  "*.css",
+                  "*.woff2",
+                  "https://*.googletagmanager.com/*",
+                  "https://*.imkirh.com/*",
+                  "https://*.xlvirdr.com/*"
+               ]
+             },
+             "playUrlMatch": [
+               "https://*/*/master.m3u8*",
+               "https://*/*/v.mp4",
+               "https://*/*/playlist.m3u8*"
+             ],
+             "spider": {
+               "homeContent": { "loadUrl": "https://netflav.com/trending" },
+               "categoryContent": { "loadUrl": "https://netflav.com/${tid}&page=${pg:-1}${range:-}" },
+               "detailContent": { "loadUrl": "https://netflav.com/video?id=${id}/" },
+               "playerContent": { "loadUrl": "https://netflav.com/video?id=${vod_id}#${src}" },
+               "searchContent": { "loadUrl": "https://netflav.com/search?keyword=${key}&page=${pg:-1}&type=title" }
+             }
+           }
+         },
         {
             "key": "xojav",
             "name": "xojav",
