@@ -73,14 +73,19 @@
             "filterable": 1
         },
         {
-            "key": "jable2",
-            "name": "Jable2",
+            "key": "whostv",
+            "name": "Whostv",
             "type": 3,
-            "api": "csp_Jable",
-            "jar": "https://raw.githubusercontent.com/Jianping145/jar/refs/heads/main/Jable.jar",
+            "api": "csp_Whostv",
+            "jar": "https://raw.githubusercontent.com/Jianping145/jar/refs/heads/main/Whostv.jar",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+             "type": "rect",
+             "ratio": 1.48
+         }
         },
         {
             "key": "supjav",
