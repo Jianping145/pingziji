@@ -105,7 +105,7 @@
               "ratio": 1.48
             },
             "api": "csp_GM",
-            "jar": "https://raw.githubusercontent.com/Jianping145/jar/refs/heads/main/GM.jar",
+            "jar": "",
             "ext": {
               "userScript": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/netflav.user.js",
               "debug": false,
@@ -134,6 +134,54 @@
              }
            }
          },
+        {
+             "key": "XOJAV",
+             "name": "XOJAV",
+             "type": 3,
+             "quickSearch": 1,
+             "searchable": 1,
+             "changeable": 0,
+             "filterable": 1,
+             "timeout": 60,
+             "style": {
+               "type": "rect",      "style": {
+               "type": "rect",
+               "ratio": 1.78
+             },
+             "api": "csp_GM",
+             "jar": "https://raw.githubusercontent.com/Jianping145/jar/refs/heads/main/GM.jar",
+             "ext": {
+              "userScript": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/xojav.user.js",
+              "debug": false,
+              "webViewSettings": {
+               "blockNetworkImage": true,
+               "blockList": [
+                "*.css*",
+                "*.ico*",
+                "*.png*",
+                "*.svg",
+                "https://*.googleapis.com/*",
+                "https://*.googletagmanager.com/*",
+                "https://*.magsrv.com/*",
+                "https://*.pemsrv.com/*"
+               ]
+              },
+              "spider": {
+               "homeContent": {
+                "loadUrl": "https://xojav.tv/?lang=zh"
+               },
+               "categoryContent": {
+                "loadUrl": "https://xojav.tv/${tid}${sort_by:-}&mode=async&function=get_block&from=${pg:-1}"
+          },
+               "detailContent": {
+                "loadUrl": "https://xojav.tv/videos/${id}"
+          },
+               "searchContent": {
+                "loadUrl": "https://xojav.tv/search/${key}/?mode=async&function=get_block&sort_by=most_relevant&from_videos=${pg:-1}"
+           }
+          }
+         }
+        },
         {
             "key": "xojav",
             "name": "xojav",
