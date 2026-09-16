@@ -64,13 +64,19 @@
             "filterable": 1
         },
         {
-            "key": "樱花视频",
+            "key": "js_ying_hua",
             "name": "樱花视频",
             "type": 3,
             "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/樱花视频.js",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {},
+            "style": {
+            "type": "rect",
+            "ratio": 1.48
+          }
         },
         {
             "key": "whostv",
