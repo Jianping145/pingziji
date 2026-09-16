@@ -73,6 +73,16 @@
             "filterable": 1
         },
         {
+            "key": "jable2",
+            "name": "Jable2",
+            "type": 3,
+            "api": "csp_Jable",
+            "jar": "https://raw.githubusercontent.com/Jianping145/jar/refs/heads/main/Jable.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "supjav",
             "name": "supjav",
             "type": 3,
