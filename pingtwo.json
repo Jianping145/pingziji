@@ -105,7 +105,7 @@
               "ratio": 1.48
             },
             "api": "csp_GM",
-            "jar": "",
+            "jar": "https://raw.githubusercontent.com/Jianping145/jar/refs/heads/main/GM.jar",
             "ext": {
               "userScript": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/netflav.user.js",
               "debug": false,
