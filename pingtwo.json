@@ -144,7 +144,6 @@
              "filterable": 1,
              "timeout": 60,
              "style": {
-               "type": "rect",      "style": {
                "type": "rect",
                "ratio": 1.78
              },
