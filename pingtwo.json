@@ -346,19 +346,19 @@
              ],
              "spider": {
               "homeContent": {
-               "loadUrl": "https://supjav.co/zh/popular"
+               "loadUrl": "https://supjav.com/zh/popular"
              },
              "categoryContent": {
-              "loadUrl": "https://supjav.co/zh/${tid}/page/${pg:-1}?sort=${sort:-quantity}"
+              "loadUrl": "https://supjav.com/zh/${tid}/page/${pg:-1}?sort=${sort:-quantity}"
              },
              "detailContent": {
-              "loadUrl": "https://supjav.co/zh/${id}"
+              "loadUrl": "https://supjav.com/zh/${id}"
              },
              "playerContent": {
-              "loadUrl": "https://supjav.co/zh/${pathname}#${link}"
+              "loadUrl": "https://supjav.com/zh/${pathname}#${link}"
              },
              "searchContent": {
-              "loadUrl": "https://supjav.co/zh/page/${pg:-1}?s=${key}"
+              "loadUrl": "https://supjav.com/zh/page/${pg:-1}?s=${key}"
              }
            }
          }
