@@ -94,15 +94,6 @@
          }
         },
         {
-            "key": "supjav",
-            "name": "supjav",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/supjav.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "123av",
             "name": "123AV",
             "type": 3,
@@ -301,6 +292,77 @@
             }
           }
         },
+        {
+             "key": "supjav",
+             "name": "SupJav",
+             "type": 3,
+             "quickSearch": 0,
+             "searchable": 1,
+             "changeable": 0,
+             "filterable": 1,
+             "timeout": 60,
+             "style": {
+              "type": "rect",
+              "ratio": 1.48
+             },
+             "api": "csp_GM",
+             "jar": "https://raw.githubusercontent.com/Jianping145/jar/refs/heads/main/GM.jar",
+             "ext": {
+              "userScript": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/supjav.user.js",
+              "debug": false,
+              "webViewSettings": {
+               "blockNetworkImage": true,
+               "blockList": [
+                "https://*.adforcast.com/*",
+                "https://*.adxadserv.com/*",
+                "https://*.bbrdbr.com/*",
+                "https://*.fanza.cc/*",
+                "https://*.google-analytics.com/*",
+                "https://*.googletagmanager.com/*",
+                "https://*.mnaspm.com/*",
+                "https://*.recombee.com/*",
+                "https://*.sacdnssedge.com/*",
+                "https://*.tapioni.com/*",
+                "https://*.yandex.ru/*",
+                "https://*/prebid.min.js",
+                "https://divisiondrearilyunfiled.com/*",
+                "https://endowmentoverhangutmost.com/*",
+                "https://imasdk.googleapis.com/*",
+                "https://psoroumukr.com/*",
+                "https://static.ads-twitter.com/*",
+                "https://streamhg.com/*"
+              ]
+             },
+             "playUrlMatch": [
+              "https://*.cdn-centaurus.com/*/master.m3u8*",
+              "https://*.cloudatacdn.com/*",
+              "https://*.cloudflarestorage.com/*",
+              "https://*.linkofnyz.com/*.m3u8*",
+              "https://*.tapecontent.net/*",
+              "https://*.turboviplay.*/*.m3u8",
+              "https://*.voe-network.net/*/master.m3u8*",
+              "https://dood.la/pass_md5/*",
+              "https://streamtape.com/get_video*"
+             ],
+             "spider": {
+              "homeContent": {
+               "loadUrl": "https://supjav.com/zh/popular"
+             },
+             "categoryContent": {
+              "loadUrl": "https://supjav.com/zh/${tid}/page/${pg:-1}?sort=${sort:-quantity}"
+             },
+             "detailContent": {
+              "loadUrl": "https://supjav.com/zh/${id}"
+             },
+             "playerContent": {
+              "loadUrl": "https://supjav.com/zh/${pathname}#${link}"
+             },
+             "searchContent": {
+              "loadUrl": "https://supjav.com/zh/page/${pg:-1}?s=${key}"
+             }
+           }
+         }
+       },
         {
             "key": "KoreaPornMovie",
             "name": "KoreaPornMovie",
