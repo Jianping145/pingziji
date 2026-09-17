@@ -103,6 +103,61 @@
             "filterable": 1
         },
         {
+            "key": "123av",
+            "name": "123AV",
+            "type": 3,
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "style": {
+             "type": "rect",
+             "ratio": 1.49
+            },
+            "api": "csp_GM",
+            "jar": "https://raw.githubusercontent.com/Jianping145/jar/refs/heads/main/GM.jar",
+            "ext": {
+             "userScript": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/123av.user.js",
+             "debug": false,
+             "webViewSettings": {
+              "blockNetworkImage": true,
+              "blockList": [
+               "*.ico",
+               "*.png",
+               "*.jpg",
+               "*.vtt",
+               "https://*.googleapis.com/*",
+               "https://*.googletagmanager.com/*",
+               "https://*.recombee.com/*",
+               "https://*.google-analytics.com/*",
+               "https://njav.tv/recomm/items/*"
+              ]
+             },
+             "playUrlMatch": [
+               "https://*/v.m3u8",
+               "https://*v.m3u8*",
+               "https://*.m3u8*"
+              ],
+             "spider": { 
+              "homeContent": {
+               "loadUrl": "https://123av.com/en"
+              },
+             "categoryContent": {
+              "loadUrl": "https://123av.com/en/${tid}"
+              },
+             "detailContent": {
+              "loadUrl": "https://123av.com/en/v/${id}"
+              },
+             "playerContent": {
+              "loadUrl": "https://123av.com/en/v/${vod_id}"
+              },
+             "searchContent": {
+              "loadUrl": "https://123av.com/en/search?keyword=${key}&page=${pg:-1}"
+            }
+          }
+        },
+        {
             "key": "netflav",
             "name": "NETFLAV",
             "type": 3,
