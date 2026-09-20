@@ -2,7 +2,7 @@
     "sites": [
         {
             "key": "missav",
-            "name": "MissAV",
+            "name": "Missav",
             "type": 3,
             "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/missav.js",
             "searchable": 1,
@@ -363,6 +363,62 @@
            }
          }
        },
+       {
+              "key": "MissAV",
+              "name": "MissAV",
+              "type": 3,
+              "quickSearch": 1,
+              "searchable": 1,
+              "changeable": 0,
+              "filterable": 1,
+              "timeout": 60,
+              "style": {
+               "type": "rect",
+               "ratio": 1.49
+              },
+              "api": "csp_GM",
+              "jar": "https://raw.githubusercontent.com/Jianping145/jar/refs/heads/main/GM.jar",
+              "ext": {
+               "userScript": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/missav.user.js",
+               "debug": false,
+               "webViewSettings": {
+                "blockNetworkImage": true,
+                "blockList": [
+                 "*.ico",
+                 "*.png",
+                 "*.css",
+                 "*.svg",
+                 "https://*.cloudflareinsights.com/*",
+                 "https://*.googletagmanager.com/*",
+                 "https://*.ktkjmp.com/*",
+                 "https://*.magsrv.com/*",
+                 "https://*.mnaspm.com/*",
+                 "https://*.myavlive.com/*",
+                 "https://*.recombee.com/*",
+                 "https://*.rmhfrtnd.com/*",
+                 "https://*.trackwilltrk.com/*",
+                 "https://*.tsyndicate.com/*",
+                 "https://missav.com/fonts/*",
+                 "https://tsyndicate.com/*",
+                 "https://hartattenuate.com/*"
+                ]
+               },
+               "spider": {
+               "homeContent": {
+                "loadUrl": "https://missav.ws/cn/"
+               },
+               "categoryContent": {
+                "loadUrl": "https://missav.ws/cn/${tid}?page=${pg:-1}${filter:-}${sort:-}"
+               },
+               "detailContent": {
+                "loadUrl": "https://missav.ws/cn/${id}"
+               },
+               "searchContent": {
+                "loadUrl": "https://missav.ws/cn/search/${key}?page=${pg:-1}"
+               }
+            }
+          }
+        },
         {
             "key": "KoreaPornMovie",
             "name": "KoreaPornMovie",
