@@ -10,10 +10,10 @@
       "filterable": 1
     },
     {
-      "key": "18av",
-      "name": "18av",
+      "key": "javdb",
+      "name": "javdb",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/18av.js",
+      "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/javdb.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
