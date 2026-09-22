@@ -19,10 +19,10 @@
       "filterable": 1
     },
     {
-      "key": "EXPORNTOONS",
-      "name": "EXPORNTOONS",
+      "key": "exporntoons",
+      "name": "exporntoons",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/EXPORNTOONS.js",
+      "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/exporntoons.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
