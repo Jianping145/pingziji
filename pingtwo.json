@@ -55,10 +55,10 @@
       "filterable": 1
     },
     {
-      "key": "hanime",
-      "name": "hanime",
+      "key": "rou",
+      "name": "肉视频",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/hanime.js",
+      "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/rou.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
