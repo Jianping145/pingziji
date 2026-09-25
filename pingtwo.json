@@ -28,10 +28,10 @@
       "filterable": 1
     },
     {
-      "key": "SpankBang",
-      "name": "SpankBang",
+      "key": "spankbang",
+      "name": "spankbang",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/SpankBang.js",
+      "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/spankbang.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
