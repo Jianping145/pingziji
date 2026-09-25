@@ -451,10 +451,13 @@
       "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/avtoday.js"
     },
     {
-      "name": "xHamster",
+      "key": "xhamster",
+      "name": "xhamster",
       "type": 3,
-      "api": "csp_xhamster",
-      "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/xhamster.js"
+      "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/xhamster.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "pornhub",
