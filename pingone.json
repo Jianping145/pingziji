@@ -352,9 +352,18 @@
         "cookie": ""
       }
     },
+	{
+      "name": "亚洲直播",
+      "url": "https://chaturbate.xvideos4.tk/api6.php?m3u",
+      "header": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Referer": "",
+        "cookie": ""
+      }
+    }, 
     {
-      "name": "电视直播",
-      "url": "https://raw.githubusercontent.com/Jianping145/crzb/refs/heads/main/dszb.m3u",
+      "name": "世界直播",
+      "url": "https://chaturbate.xvideos4.tk/api5.php?m3u&all",
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
         "Referer": "",
