@@ -223,7 +223,8 @@
 	{"key": "CK资源", "name": "CK资源｜[采集]", "type": 1, "api": "https://ckzy.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0},
 	{"key": "鲨鱼资源", "name": "鲨鱼资源｜[采集]", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
 	{"key": "slyzy", "name": "湿乐园｜[采集]", "type": 1, "api": "https://xxavs.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
-	  {"key": "嘿嘿资源", "name": "嘿嘿资源｜[采集]", "type": 1, "api": "https://api.heiapi.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+    {"key": "嘿嘿资源", "name": "嘿嘿资源｜[采集]", "type": 1, "api": "https://api.heiapi.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+	{"key": "豆豆资源", "name": "豆豆资源｜[采集]", "type": 1, "api": "https://api.douapi.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
 	{
       "key": "lsb资源",
       "name": "lsb资源｜[采集]",
@@ -258,7 +259,10 @@
       "key": "火速",
       "name": "火速｜[采集]",
       "type": 1,
-      "api": "https://api.huosuapi.cc/api.php/provide/vod/"
+      "api": "https://api.huosuapi.cc/api.php/provide/vod/",
+	  "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
     },
     {
       "key": "森林",
