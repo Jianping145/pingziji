@@ -335,8 +335,8 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "❅黄色",
-      "url": "https://down.nigx.cn/mpimg.cn/down.php/25da10b0cb7b90d422ae22852bd7d414.txt",
+      "name": "pingzb18+",
+      "url": "https://raw.githubusercontent.com/Jianping145/crzb/refs/heads/main/pingzb.m3u",
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
         "Referer": "",
@@ -344,8 +344,8 @@
       }
     },
     {
-      "name": "❅日本",
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp_clean.m3u",
+      "name": "Bunbun18+",
+      "url": "https://raw.githubusercontent.com/Jianping145/crzb/refs/heads/main/Bunbun.m3u",
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
         "Referer": "",
