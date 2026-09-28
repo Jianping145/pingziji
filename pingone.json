@@ -353,8 +353,8 @@
       }
     },
     {
-      "name": "❅日本1",
-      "url": "https://down.nigx.cn/raw.githubusercontent.com/luongz/iptv-jp/refs/heads/main/jp.m3u",
+      "name": "电视直播",
+      "url": "https://raw.githubusercontent.com/Jianping145/crzb/refs/heads/main/dszb.m3u",
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
         "Referer": "",
