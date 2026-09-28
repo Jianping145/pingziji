@@ -255,10 +255,10 @@
       "api": "http://fhapi9.com/api.php/provide/vod/"
     },
     {
-      "key": "2",
-      "name": "2｜[采集]",
+      "key": "火速",
+      "name": "火速｜[采集]",
       "type": 1,
-      "api": "https://thzy1.me/api.php/provide/vod/"
+      "api": "https://api.huosuapi.cc/api.php/provide/vod/"
     },
     {
       "key": "森林",
