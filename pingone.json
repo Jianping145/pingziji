@@ -136,7 +136,7 @@
          },
     {
       "key": "奥斯卡",
-      "name": "ദ്ദി奥斯卡",
+      "name": "奥斯卡｜[采集]",
       "type": 1,
       "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -209,23 +209,24 @@
     },  
 	{
       "key": "91",
-      "name": "传媒系列",
+      "name": "传媒系列｜[采集]",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "changeable": 1
     },
-    {"key": "麻豆", "name": "麻豆", "type": 1, "api": "http://www.madouse.la/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1}, 
-    {"key": "番茄资源", "name": "番茄资源", "type": 1, "api": "https://fqzy.me//api.php/provide/vod/", "searchable": 1, "quickSearch": 0, "filterable": 1}, 
-	{"key": "桃花资源", "name": "桃花资源", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0}, 
-	{"key": "红桃视频", "name": "红桃视频", "type": 1, "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
-	{"key": "精品98", "name": "精品98", "type": 1, "api": "https://jp98.vip/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
-	{"key": "CK资源", "name": "CK资源", "type": 1, "api": "https://ckzy.me/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0},
-	{"key": "鲨鱼资源", "name": "鲨鱼资源", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
-	{"key": "slyzy", "name": "湿乐园", "type": 1, "api": "https://xxavs.com/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1},
+    {"key": "麻豆", "name": "麻豆｜[采集]", "type": 1, "api": "http://www.madouse.la/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1}, 
+    {"key": "番茄资源", "name": "番茄资源｜[采集]", "type": 1, "api": "https://fqzy.me//api.php/provide/vod/", "searchable": 1, "quickSearch": 0, "filterable": 1}, 
+	{"key": "桃花资源", "name": "桃花资源｜[采集]", "type": 1, "api": "https://thzy1.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0}, 
+	{"key": "红桃视频", "name": "红桃视频｜[采集]", "type": 1, "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
+	{"key": "精品98", "name": "精品98｜[采集]", "type": 1, "api": "https://jp98.vip/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
+	{"key": "CK资源", "name": "CK资源｜[采集]", "type": 1, "api": "https://ckzy.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0},
+	{"key": "鲨鱼资源", "name": "鲨鱼资源｜[采集]", "type": 1, "api": "https://shayuapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+	{"key": "slyzy", "name": "湿乐园｜[采集]", "type": 1, "api": "https://xxavs.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+	  {"key": "嘿嘿资源", "name": "嘿嘿资源｜[采集]", "type": 1, "api": "https://api.heiapi.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
 	{
       "key": "lsb资源",
-      "name": "lsb资源",
+      "name": "lsb资源｜[采集]",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -234,7 +235,7 @@
     },
 	{
       "key": "黄色仓库",
-      "name": "黄色仓库",
+      "name": "黄色仓库｜[采集]",
       "type": 1,
       "api": "https://hsckzy.vip/api.php/provide/vod/",
       "quickSearch": 1,
@@ -243,43 +244,43 @@
     },  
     {
       "key": "大地",
-      "name": "大地",
+      "name": "大地｜[采集]",
       "type": 0,
       "api": "https://dadiapi.com/api.php"
     },
     {
       "key": "番号",
-      "name": "番号",
+      "name": "番号｜[采集]",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/"
     },
     {
       "key": "2",
-      "name": "2",
+      "name": "2｜[采集]",
       "type": 1,
       "api": "https://thzy1.me/api.php/provide/vod/"
     },
     {
       "key": "森林",
-      "name": "森林",
+      "name": "森林｜[采集]",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/"
     },
     {
       "key": "155",
-      "name": "155",
+      "name": "155｜[采集]",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/"
     },
     {
       "key": "乐播",
-      "name": "乐播",
+      "name": "乐播｜[采集]",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/"
     },
     {
       "key": "鸡坤",
-      "name": "鸡坤",
+      "name": "鸡坤｜[采集]",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -288,13 +289,13 @@
     },
     {
       "key": "老色逼",
-      "name": "老色逼",
+      "name": "老色逼｜[采集]",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/"
     },
     {
       "key": "奥斯卡",
-      "name": "奥斯卡",
+      "name": "aosika｜[采集]",
       "type": 1,
       "api": "https://aosikazy.com/api.php/provide/vod/",
       "header": {
@@ -303,19 +304,19 @@
     },
     {
       "key": "奶香",
-      "name": "奶香",
+      "name": "奶香｜[采集]",
       "type": 1,
       "api": "https://Naixxzy.com/api.php/provide/vod/"
     },
     {
       "key": "玉兔",
-      "name": "玉兔",
+      "name": "玉兔｜[采集]",
       "type": 1,
       "api": "https://apiyutu.com/api.php/provide/vod/"
     },
     {
       "key": "滴滴",
-      "name": "滴滴",
+      "name": "滴滴｜[采集]",
       "type": 1,
       "api": "https://api.ddapi.cc/api.php/provide/vod/"
     }
