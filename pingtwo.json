@@ -502,10 +502,13 @@
       "quickSearch": 1
     },
     {
-      "name": "AVDB",
+      "key": "avdb",
+      "name": "avdb",
       "type": 3,
-      "api": "csp_avdb",
-      "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/avdb.js"
+      "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/avdb.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "name": "KanAV",
