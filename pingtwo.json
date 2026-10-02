@@ -490,7 +490,7 @@
       "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/hdys.js",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "filterable": 1
     },
     {
       "key": "Taiav",
