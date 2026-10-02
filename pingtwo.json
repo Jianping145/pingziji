@@ -529,10 +529,13 @@
       "filterable": 1
     },
     {
-      "name": "KanAV",
+      "key": "kanav",
+      "name": "kanav",
       "type": 3,
-      "api": "csp_kanav",
-      "ext": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/kanav.js"
+      "api": "https://raw.githubusercontent.com/Jianping145/ping-js/refs/heads/main/kanav.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "name": "kbjfan",
