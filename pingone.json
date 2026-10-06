@@ -382,25 +382,19 @@
         "cookie": ""
       }
     },
-	{
-      "name": "亚洲直播",
-      "url": "https://chaturbate.xvideos4.tk/api6.php?m3u",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-        "Referer": "",
-        "cookie": ""
-      }
-    }, 
     {
-      "name": "世界直播",
-      "url": "https://chaturbate.xvideos4.tk/api5.php?m3u&all",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-        "Referer": "",
-        "cookie": ""
-      },
+        "name": "亚洲主播直播",
+        "type": 0,
+        "ua": "okhttp",
+        "url": "https://chaturbate.xvideos4.tk/api6.php?m3u"
+    },
+    {
+        "name": "🐬亚洲主播直播🔞",
+        "type": 0,
+        "ua": "okhttp",
+        "url": "https://chaturbate.xvideos4.tk/api5.php?m3u&all"
+    },
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "http://diyp5.112114.xyz/{name}.png"
-    }
   ]
 }
