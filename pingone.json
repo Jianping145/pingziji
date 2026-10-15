@@ -48,6 +48,12 @@
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/抖阴.py"
 		},
+	  {
+			"key": "mdapp",
+			"name": "麻豆app.py｜🔞[成人][免梯]",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/mdapp.py"
+		},
 	   {
 			"key": "seige",
 			"name": "色爱阁.py｜🔞[成人][免梯]",
