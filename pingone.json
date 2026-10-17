@@ -48,7 +48,7 @@
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/抖阴.py"
 		},
-	  {
+	   {
 			"key": "mdapp",
 			"name": "麻豆app.py｜🔞[成人][免梯]",
 			"type": 3,
@@ -61,8 +61,14 @@
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/seige.py"
 		},
 	   {
+			"key": "zuise",
+			"name": "色最色.py｜🔞[成人][免梯]",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/zuise.py"
+		},
+	   {
 			"key": "nww2",
-			"name": "nww2.py｜🔞[成人][免梯]",
+			"name": "女污网.py｜🔞[成人][免梯]",
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/nww2.py"
 		},
