@@ -36,11 +36,17 @@
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/85po.py"
 		},
-	  {
+	   {
 			"key": "91lol",
 			"name": "91lol.py｜🔞[成人][免梯]",
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/91lol.py"
+		},
+	   {
+			"key": "91hub",
+			"name": "91hub.py｜🔞[成人][免梯]",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/91hub.py"
 		},
 	   {
 			"key": "抖阴",
