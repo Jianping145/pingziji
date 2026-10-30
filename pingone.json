@@ -54,6 +54,12 @@
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/91hub.py"
 		},
+	  {
+           "key": "91crdj",
+           "name": "91短剧.py｜🔞[成人][免梯]",
+           "type": 3,
+           "api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/91crdj.py"
+       },
 	   {
 			"key": "抖阴",
 			"name": "抖阴.py｜🔞[成人][免梯]",
@@ -174,6 +180,12 @@
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/3movs.py"
 		},
+	  {
+            "key": "pornone",
+            "name": "pornone.py｜🔞[成人][梯子]",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/pornone.py"
+       },
 	   {
 			"key": "redtube",
 			"name": "redtube.py｜🔞[成人][梯子]",
