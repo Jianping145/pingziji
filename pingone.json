@@ -181,6 +181,12 @@
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/3movs.py"
 		},
 	  {
+            "key": "youperv",
+            "name": "youperv.py｜🔞[成人][梯子]",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/youperv.py"
+       },
+	  {
             "key": "pornhat",
             "name": "pornhat.py｜🔞[成人][梯子]",
             "type": 3,
