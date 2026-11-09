@@ -293,6 +293,12 @@
             "changeable": 1,
             "jar": "https://raw.githubusercontent.com/qist/tvbox/master/jar/spider.jar"
          },
+	   {
+			"key": "missav",
+			"name": "missav.py｜🔞[成人][梯子]",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/missav.py"
+		 },
 	     {
 			"key": "javtiful",
 			"name": "javtiful.py｜🔞[成人][梯子]",
