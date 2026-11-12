@@ -72,6 +72,12 @@
            "type": 3,
            "api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/huangguoai.py"
        },
+	  {
+			"key": "huangguo",
+			"name": "黄果视频.py｜🔞[成人][免梯]",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/huangguo.py"
+		},
 	   {
 			"key": "抖阴",
 			"name": "抖阴.py｜🔞[成人][免梯]",
@@ -95,6 +101,12 @@
 			"name": "色最色.py｜🔞[成人][免梯]",
 			"type": 3,
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/zuise.py"
+		},
+	  {
+			"key": "亚洲无码",
+			"name": "亚洲无码.py｜🔞[成人][免梯]",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/亚洲无码.py"
 		},
 	  {
 			"key": "苍狼色",
@@ -299,6 +311,12 @@
             "changeable": 1,
             "jar": "https://raw.githubusercontent.com/qist/tvbox/master/jar/spider.jar"
          },
+	  {
+			"key": "jable",
+			"name": "jable.py｜🔞[成人][梯子]",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/jable.py"
+		},
 	   {
 			"key": "missav",
 			"name": "missav.py｜🔞[成人][梯子]",
