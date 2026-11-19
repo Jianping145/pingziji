@@ -37,6 +37,12 @@
 			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/51暗网.py"
 		},
 	  {
+			"key": "lustplus",
+			"name": "撸社.py｜🔞[成人][免梯]",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/lustplus.py"
+		},
+	  {
 			"key": "8天资源",
 			"name": "8天资源.py｜🔞[成人][梯子]",
 			"type": 3,
@@ -317,6 +323,12 @@
             "changeable": 1,
             "jar": "https://raw.githubusercontent.com/qist/tvbox/master/jar/spider.jar"
          },
+	  {
+			"key": "ikisoda",
+			"name": "ikisoda.py｜🔞[成人][梯子]",
+			"type": 3,
+			"api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/ikisoda.py"
+		},
 	  {
 			"key": "jable",
 			"name": "jable.py｜🔞[成人][梯子]",
