@@ -1158,7 +1158,13 @@
       "name": "🐬TwiXive.py｜🔞[成人][梯子]",
       "type": 3,
       "api": "https://ghfast.top/https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/TwiXive.py"
-    }, 
+    },
+	{
+	  "key": "123av",
+	  "name": "123av.py｜🔞[成人][免梯]",
+	  "type": 3,
+	  "api": "https://raw.githubusercontent.com/Jianping145/ping-py/refs/heads/main/123av.py"
+	}, 
     {
       "key": "javhdtoday",
       "name": "🐬javhdtoday.py｜🔞[成人][免梯]",
