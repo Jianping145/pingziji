@@ -340,7 +340,13 @@
             "https://imasdk.googleapis.com/*",
             "https://psoroumukr.com/*",
             "https://static.ads-twitter.com/*",
-            "https://streamhg.com/*"
+            "https://streamhg.com/*",
+            "https://*.popads.net/*",
+            "https://*.popcash.net/*",
+            "https://*.propellerads.com/*",
+            "https://*.exoclick.com/*",
+            "https://*.juicyads.com/*",
+            "https://*.trafficjunky.net/*"
           ]
         },
         "playUrlMatch": [
