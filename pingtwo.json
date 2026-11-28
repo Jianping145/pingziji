@@ -369,6 +369,10 @@
           "https://dood.la/pass_md5/*",
           "https://streamtape.com/get_video*",
           "https://*.streamtape.com/get_video*",
+          "https://fc2stream.tv/*",
+          "https://*.fc2stream.tv/*",
+          "https://fc2stream.tv/**/*.m3u8*",
+          "https://*.fc2stream.tv/**/*.m3u8*",
           "https://*/*playlist.m3u8*",
           "https://*/*master.m3u8*",
           "https://*/*index.m3u8*"
